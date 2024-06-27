@@ -1,5 +1,5 @@
 # ddeg
-##简体中文
+## 简体中文
 呃。。。那么好吧。
 如你所见，这是一个DDEG（DIRTYDUST THE ENDLESS GENOCIDE）的开发版。
 模板我用的是ZNM早泥玛的ute魔改版。
@@ -9,7 +9,7 @@
 就这。
 没了。
 
-##English
+## English
 uhh...then well.
 as you see,its a dev version of DDEG(DIRTYDUST THE ENDLESS GENOCIDE).
 the engine  i use is ute modded by znm.
