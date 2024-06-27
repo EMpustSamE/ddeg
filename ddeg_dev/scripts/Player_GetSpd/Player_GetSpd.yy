@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Player_GetSpd",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Player_GetSpd",
+  "parent":{
+    "name":"Stat",
+    "path":"folders/Scripts/Player/Stat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ini_Load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ini_Load",
+  "parent":{
+    "name":"ini",
+    "path":"folders/Scripts/Player/ini.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_RemoveEnemy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_RemoveEnemy",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Battle/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

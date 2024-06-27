@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"goto_secret",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"goto_secret",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

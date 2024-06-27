@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Encounter_GetSoulY",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Encounter_GetSoulY",
+  "parent":{
+    "name":"Encounter",
+    "path":"folders/Scripts/Encounter.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

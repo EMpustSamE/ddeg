@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_IsMenuChoiceMercyOverride",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_IsMenuChoiceMercyOverride",
+  "parent":{
+    "name":"Choice",
+    "path":"folders/Scripts/Battle/Menu/Choice.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BGM_IsPaused",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BGM_IsPaused",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Scripts/BGM.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

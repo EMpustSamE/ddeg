@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BGM_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BGM_Step",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Scripts/BGM.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

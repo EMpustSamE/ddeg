@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_GetMenuFightAnimTime",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_GetMenuFightAnimTime",
+  "parent":{
+    "name":"Fight",
+    "path":"folders/Scripts/Battle/Menu/Fight.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

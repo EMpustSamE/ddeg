@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_Dialog_Enemy_Add",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_Dialog_Enemy_Add",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

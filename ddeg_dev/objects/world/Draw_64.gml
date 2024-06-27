@@ -1,0 +1,29 @@
+draw_set_halign(fa_left)
+draw_set_valign(fa_top)
+if(keyboard_check(vk_escape)){
+	if(global.language=LANGUAGE.ENGLISH){
+		draw_set_font(font_determination_sans)
+		if(quitting_timer=0){
+			quitting_text="Quitting"
+		}
+	}
+	if(global.language=LANGUAGE.SCHINESE){
+		draw_set_font(font_menu)
+	if(quitting_timer=0){
+		quitting_text="退出中"
+		}
+	}
+	draw_set_color(c_white)
+	if(quitting_timer>=0){
+		quitting_timer+=1
+	}
+	if(quitting_timer=60||quitting_timer=100||quitting_timer=160){
+		quitting_text+="."
+	}
+	if(quitting_timer>=180){
+		game_end()
+	}
+	draw_text_transformed(0,0,quitting_text,3/2,3/2,0)//}
+}else{
+	quitting_timer=0
+}

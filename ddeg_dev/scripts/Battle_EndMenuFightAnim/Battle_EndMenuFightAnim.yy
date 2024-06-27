@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_EndMenuFightAnim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_EndMenuFightAnim",
+  "parent":{
+    "name":"Fight",
+    "path":"folders/Scripts/Battle/Menu/Fight.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

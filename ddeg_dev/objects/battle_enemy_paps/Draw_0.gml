@@ -1,0 +1,5 @@
+draw_sprite_ext(spr_paps_head,_head,headx,heady,2,2,0,c_white,1)
+draw_sprite_ext(spr_paps_hand,_hand,handx,handy,2,2,0,c_white,1)
+draw_sprite_ext(spr_paps_head_on_hand,_head_on_hand,head_on_handx,head_on_handy,2,2,0,c_white,1)
+draw_sprite_ext(spr_paps_scarf,_scarf,scarfx,scarfy-12,2,2,0,c_white,1)
+draw_sprite_ext(spr_paps_head,_head,headx,heady,2,2,0,c_white,1)

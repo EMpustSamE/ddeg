@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_GotoNextState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_GotoNextState",
+  "parent":{
+    "name":"Next",
+    "path":"folders/Scripts/Battle/State/Next.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

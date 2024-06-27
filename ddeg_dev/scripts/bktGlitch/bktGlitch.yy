@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bktGlitch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bktGlitch",
+  "parent":{
+    "name":"bktglitch",
+    "path":"folders/Scripts/bktglitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

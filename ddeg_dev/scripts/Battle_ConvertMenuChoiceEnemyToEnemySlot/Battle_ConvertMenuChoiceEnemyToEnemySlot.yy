@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_ConvertMenuChoiceEnemyToEnemySlot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_ConvertMenuChoiceEnemyToEnemySlot",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Scripts/Battle/Menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

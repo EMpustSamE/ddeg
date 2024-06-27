@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_SetPlayerTempDef",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_SetPlayerTempDef",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Battle/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

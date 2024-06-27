@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_maker,0,480+sin(_sin)*3,350+cos(_sin)*3,6,6,maker_angle,c_white,1)

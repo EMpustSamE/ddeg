@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Fader_Fade",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fader_Fade",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

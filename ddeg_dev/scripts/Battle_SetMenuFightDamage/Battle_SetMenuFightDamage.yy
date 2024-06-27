@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_SetMenuFightDamage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_SetMenuFightDamage",
+  "parent":{
+    "name":"Fight",
+    "path":"folders/Scripts/Battle/Menu/Fight.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

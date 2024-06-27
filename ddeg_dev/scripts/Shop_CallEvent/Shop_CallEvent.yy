@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Shop_CallEvent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Shop_CallEvent",
+  "parent":{
+    "name":"Shop",
+    "path":"folders/Scripts/Shop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

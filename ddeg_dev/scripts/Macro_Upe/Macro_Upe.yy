@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Macro_Upe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Macro_Upe",
+  "parent":{
+    "name":"Macro",
+    "path":"folders/Scripts/Macro.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

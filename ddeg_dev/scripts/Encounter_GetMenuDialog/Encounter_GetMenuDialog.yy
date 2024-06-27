@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Encounter_GetMenuDialog",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Encounter_GetMenuDialog",
+  "parent":{
+    "name":"Encounter",
+    "path":"folders/Scripts/Encounter.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Item_GetTextEat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Item_GetTextEat",
+  "parent":{
+    "name":"Item",
+    "path":"folders/Scripts/GMU/Item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

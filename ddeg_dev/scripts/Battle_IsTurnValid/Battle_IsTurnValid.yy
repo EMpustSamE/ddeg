@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Battle_IsTurnValid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_IsTurnValid",
+  "parent":{
+    "name":"Turn",
+    "path":"folders/Scripts/Battle/Turn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

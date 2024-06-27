@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_story,page,60,28,1,1,0,c_white,_alpha);

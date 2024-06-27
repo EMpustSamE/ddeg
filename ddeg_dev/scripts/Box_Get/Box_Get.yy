@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Box_Get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Box_Get",
+  "parent":{
+    "name":"Box",
+    "path":"folders/Scripts/Box.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

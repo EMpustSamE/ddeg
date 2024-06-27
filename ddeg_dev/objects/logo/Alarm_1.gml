@@ -1,0 +1,1 @@
+Anim_Create(self,"DIRTY_x",ANIM_TWEEN.BACK,ANIM_EASE.OUT,-200,354,40);

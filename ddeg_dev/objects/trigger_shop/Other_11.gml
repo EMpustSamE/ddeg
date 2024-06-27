@@ -1,0 +1,1 @@
+char_player._moveable_warp=true;
