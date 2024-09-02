@@ -21,5 +21,5 @@ nothing left.
 ## special things
 open the url below
 打开下面的链接
-https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click
+https://www.bilibili.com/video/BV1GJ411x7h7
 nnniiiiiiiiiiicccceeee(doge
